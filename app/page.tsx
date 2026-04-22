@@ -199,7 +199,7 @@ export default function SageInstitutionalApp() {
                 <Building2 className={`w-4 h-4 sm:w-5 sm:h-5 ${getIconColor()}`} />
               </div>
               <div className="hidden sm:block">
-                <h1 className="text-lg font-semibold text-gray-900 tracking-tight">Sage Institutional</h1>
+                <h1 className="text-lg font-semibold text-gray-900 tracking-tight">Sage IRM</h1>
                 <p className="text-[11px] text-gray-400 font-medium">{personaSubtitle()}</p>
               </div>
             </div>
