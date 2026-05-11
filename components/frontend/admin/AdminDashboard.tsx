@@ -81,7 +81,7 @@ const AUDIT_TRAIL = [
   { id: "A001", timestamp: "2026-04-17T16:45:00Z", actor: "Diana Reyes (CCO)", action: "Approved", target: "Cascade Treasury — Duration Extension", detail: "Approved. Remains within IPS duration guidelines.", risk: "low" as const },
   { id: "A002", timestamp: "2026-04-19T14:30:00Z", actor: "Sarah Chen (RM)", action: "Submitted", target: "Vandermeer — Ares Direct Lending", detail: "Submitted for compliance review. High risk alternative investment.", risk: "high" as const },
   { id: "A003", timestamp: "2026-04-18T09:15:00Z", actor: "Sarah Chen (RM)", action: "Submitted", target: "Hartwell — Emergency Equity Rebalance", detail: "Submitted for compliance review. Urgent — SLA April 23.", risk: "medium" as const },
-  { id: "A004", timestamp: "2026-04-15T09:00:00Z", actor: "James Park (RM)", action: "Drafted", target: "Pacific NW — Infrastructure Proposal", detail: "Draft action created. Not yet submitted to compliance.", risk: "low" as const },
+  { id: "A004", timestamp: "2026-04-15T09:00:00Z", actor: "Isaiah Langer (RM)", action: "Drafted", target: "Pacific NW — Infrastructure Proposal", detail: "Draft action created. Not yet submitted to compliance.", risk: "low" as const },
   { id: "A005", timestamp: "2026-04-12T11:30:00Z", actor: "Diana Reyes (CCO)", action: "Reviewed", target: "Meridian — Q1 Performance Report", detail: "Compliance reviewed Q1 commentary. Approved for client distribution.", risk: "low" as const },
 ]
 
