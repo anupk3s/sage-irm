@@ -134,7 +134,7 @@ export default function SageInstitutionalApp() {
   const handleBackFromDetail = () => {
     setSelectedClient(null)
     setRmView("advisor-clients")
-  }
+  } 
 
   const handleRMSwitch = (rmId: string) => {
     const rm = MOCK_RMS.find((r) => r.id === rmId)
